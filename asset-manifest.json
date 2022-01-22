@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/active/static/css/main.25fe16e6.chunk.css",
+    "main.js": "/active/static/js/main.5f66302d.chunk.js",
+    "main.js.map": "/active/static/js/main.5f66302d.chunk.js.map",
+    "runtime-main.js": "/active/static/js/runtime-main.f4b706a3.js",
+    "runtime-main.js.map": "/active/static/js/runtime-main.f4b706a3.js.map",
+    "static/css/2.4ce9e501.chunk.css": "/active/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.b4911129.chunk.js": "/active/static/js/2.b4911129.chunk.js",
+    "static/js/2.b4911129.chunk.js.map": "/active/static/js/2.b4911129.chunk.js.map",
+    "index.html": "/active/index.html",
+    "static/css/2.4ce9e501.chunk.css.map": "/active/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.25fe16e6.chunk.css.map": "/active/static/css/main.25fe16e6.chunk.css.map",
+    "static/js/2.b4911129.chunk.js.LICENSE.txt": "/active/static/js/2.b4911129.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/active/static/media/banner.4f99d80c.jpg",
+    "static/media/team-1.e5e3b252.jpg": "/active/static/media/team-1.e5e3b252.jpg",
+    "static/media/team-2.68dd86f6.jpg": "/active/static/media/team-2.68dd86f6.jpg",
+    "static/media/team-3.8137adb4.jpg": "/active/static/media/team-3.8137adb4.jpg",
+    "static/media/team-4.a9ecdff4.jpg": "/active/static/media/team-4.a9ecdff4.jpg",
+    "static/media/testimonial-1.360376e9.jpg": "/active/static/media/testimonial-1.360376e9.jpg",
+    "static/media/testimonial-2.0d67e882.jpg": "/active/static/media/testimonial-2.0d67e882.jpg",
+    "static/media/work-1.b3bca346.jpg": "/active/static/media/work-1.b3bca346.jpg",
+    "static/media/work-2.b57c064d.jpg": "/active/static/media/work-2.b57c064d.jpg",
+    "static/media/work-3.39435ce2.jpg": "/active/static/media/work-3.39435ce2.jpg",
+    "static/media/work-4.a45643d0.jpg": "/active/static/media/work-4.a45643d0.jpg",
+    "static/media/work-5.7fd39c58.jpg": "/active/static/media/work-5.7fd39c58.jpg",
+    "static/media/work-6.d1c20d7f.jpg": "/active/static/media/work-6.d1c20d7f.jpg",
+    "static/media/work-7.2f476178.jpg": "/active/static/media/work-7.2f476178.jpg",
+    "static/media/work-8.7d965f75.jpg": "/active/static/media/work-8.7d965f75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b706a3.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.b4911129.chunk.js",
+    "static/css/main.25fe16e6.chunk.css",
+    "static/js/main.5f66302d.chunk.js"
+  ]
+}
